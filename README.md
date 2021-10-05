@@ -1,3 +1,4 @@
+![cat](https://user-images.githubusercontent.com/86224692/136093002-0e0cc9ad-6fe3-4d7c-b771-39e95f3a8c4d.gif)
 
 <h1 align="center">Hello world 👋, we are the Polybees Network Protocol community.</h1>
 <h3 align="center">Decentralize application run on Binance Smartchain and using polyhexagonal swap protocol.</h3>
