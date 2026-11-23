@@ -1,35 +1,245 @@
-![cat](https://user-images.githubusercontent.com/86224692/136093002-0e0cc9ad-6fe3-4d7c-b771-39e95f3a8c4d.gif)
 
-<h1 align="center">Hello world 👋, we are the Polybees Network Protocol community.</h1>
-<h3 align="center">Decentralize application run on Binance Smartchain and using polyhexagonal swap protocol.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=polybeesnetwork&label=Profile%20views&color=0e75b6&style=flat" alt="polybeesnetwork" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090E19,45:123A55,75:D89F32,100:F4D06F&text=POLYBEES%20NETWORK&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=Decentralized%20Intelligence.%20Collective%20Evolution.&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Polybees Network Banner"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polybeesnetwork" alt="polybeesnetwork" /></a> </p>
+### 🐝 Building the Next Generation of Agentic Web3 Infrastructure
 
-<p align="left"> <a href="https://twitter.com/@polybeesnetwork" target="blank"><img src="https://img.shields.io/twitter/follow/@polybeesnetwork?logo=twitter&style=for-the-badge" alt="@polybeesnetwork" /></a> </p>
+**Swarm Intelligence · Autonomous Agents · On-Chain Transparency · Web3 Security**
 
-- 🔭 I’m currently working on [Polybees Protocol](www.polybees.network)
+[![BNB Chain](https://img.shields.io/badge/ECOSYSTEM-BNB%20CHAIN-F0B90B?style=for-the-badge&labelColor=111827)](https://www.bnbchain.org/)
+[![Open Source](https://img.shields.io/badge/PHILOSOPHY-OPEN%20SOURCE-00D9FF?style=for-the-badge&labelColor=111827)](https://github.com/Polybeesnetwork)
+[![Development](https://img.shields.io/badge/STATUS-ACTIVE%20R%26D-36D399?style=for-the-badge&labelColor=111827)](https://github.com/Polybeesnetwork)
 
-- 👯 I’m looking to collaborate on **Marketing Team and Developer**
+</div>
 
-- 🤝 I’m looking for help with **any charity that needed**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/polybeesnetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="polybeesnetwork" height="30" width="40" /></a>
-<a href="https://dev.to/polybeesnetwork" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="polybeesnetwork" height="30" width="40" /></a>
-<a href="https://twitter.com/@polybeesnetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@polybeesnetwork" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/polybeesnetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="polybeesnetwork" height="30" width="40" /></a>
-<a href="https://codesandbox.com/polybeesnetwork" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="polybeesnetwork" height="30" width="40" /></a>
-<a href="https://fb.com/polybeesnetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="polybeesnetwork" height="30" width="40" /></a>
-<a href="https://dribbble.com/polybeesnetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="polybeesnetwork" height="30" width="40" /></a>
-<a href="https://medium.com/@polybeesnetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@polybeesnetwork" height="30" width="40" /></a>
-</p>
+## ◈ We Are Polybees
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+**Polybees Network** is an experimental Web3 and agentic intelligence initiative exploring how autonomous software agents can coordinate as an adaptive digital superorganism.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=polybeesnetwork&show_icons=true&locale=en&layout=compact" alt="polybeesnetwork" /></p>
+Inspired by the collective intelligence of biological bee colonies, we envision networks where independent agents discover opportunities, share signals, distribute work, verify results, and continuously improve.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polybeesnetwork&show_icons=true&locale=en" alt="polybeesnetwork" /></p>
+Not a centralized AI manager controlling a collection of bots.
+
+Not another token without meaningful utility.
+
+**A coordinated ecosystem of specialized intelligences working toward shared objectives.**
+
+> **Thousands of independent intelligences. One adaptive collective.**
+
+---
+
+## ◈ The Superorganism Thesis
+
+In biological colonies, coordination emerges from local interactions rather than continuous top-down instructions.
+
+Our research investigates how these mechanisms could inform autonomous agent systems.
+
+| Biological Mechanism | Agentic Interpretation |
+|:---|:---|
+| 🐝 Instinct | Local policies and role-specific capabilities |
+| 📡 Pheromones | Shared signals, priorities, and task state |
+| 💃 Waggle Dance | Opportunity discovery and evidence broadcasting |
+| ⚡ Hormones | System-wide adaptation to changing conditions |
+| 🧠 Collective Memory | Persistent findings, feedback, and knowledge |
+| 🛡️ Colony Defense | Independent validation and security controls |
+
+### Conceptual Agent Architecture
+
+```text
+                     POLYBEES NETWORK
+                   Collective Intelligence
+                            │
+                ┌───────────┴───────────┐
+                │   SHARED SIGNAL BUS   │
+                │   + COLONY MEMORY     │
+                └───────────┬───────────┘
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+   SCOUT COLONY       BUILDER COLONY      GUARDIAN COLONY
+        │                   │                   │
+   Opportunity          Engineering         Security
+   Discovery            Implementation      Verification
+        │                   │                   │
+   Research             Integration         Testing
+   Evidence             Delivery            Validation
+        │                   │                   │
+        └───────────────────┼───────────────────┘
+                            │
+                 VERIFIED COLLECTIVE OUTPUT
+```
+
+*This is a research architecture, not a claim of a fully deployed decentralized multi-agent network.*
+
+---
+
+## ◈ Featured Engineering Initiative
+
+### 🔷 Beacon Ledger
+
+**Treasury Transparency & Monitoring for BNB Chain**
+
+A read-only blockchain monitoring application designed to help smaller Web3 teams inspect public treasury activity and improve financial transparency.
+
+**Implemented in the reported MVP:**
+
+- Multi-endpoint BNB Chain RPC handling
+- Chain ID verification
+- Native BNB transaction observation
+- Optional BEP-20 Transfer event monitoring
+- Configurable treasury outflow thresholds
+- Bounded block-history scanning
+- Basic chain reorganization checks
+- Browser-local watchlists and event history
+- Campaign accountability exploration
+- Public transaction evidence links
+
+**Current maturity:** Experimental MVP.
+
+Live-chain verification, comprehensive browser QA, and production-grade indexing remain outstanding.
+
+**No public fundraising, escrow, custody, or token transactions are activated.**
+
+[![Repository](https://img.shields.io/badge/EXPLORE-REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/Polybeesnetwork/cuddly-waddle)
+
+---
+
+## ◈ Our Research Frontiers
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐝 Agentic Swarm Intelligence
+
+Exploring decentralized task allocation, shared memory, autonomous discovery, distributed verification, and adaptive coordination.
+
+**Research stage**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Web3 Security Intelligence
+
+Investigating wallet activity monitoring, treasury risk signals, contract analysis, incident reconstruction, and explainable security evidence.
+
+**Research stage**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Transparent Crowdfunding
+
+Exploring milestone-based financing, accountable treasury operations, contributor visibility, and verifiable progress reporting.
+
+**Feasibility stage — not accepting funds**
+
+</td>
+<td width="50%" valign="top">
+
+### ⛓️ On-Chain Intelligence
+
+Studying public fund flows, transaction patterns, wallet relationships, and evidence-driven blockchain analytics.
+
+**Research stage**
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Engineering Philosophy
+
+```text
+01   VERIFY BEFORE TRUSTING
+02   BUILD UTILITY BEFORE TOKENOMICS
+03   EVIDENCE OVER MARKETING CLAIMS
+04   SECURITY BEFORE MAINNET
+05   AUTONOMY WITH ACCOUNTABILITY
+06   OPEN DEVELOPMENT, HONEST LIMITATIONS
+```
+
+We believe serious Web3 infrastructure requires more than polished interfaces and ambitious promises.
+
+Every feature should have a purpose.
+
+Every security claim should have supporting evidence.
+
+Every critical financial operation should have explicit authorization and tested safeguards.
+
+---
+
+## ◈ Technology & Exploration
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![BNB Chain](https://img.shields.io/badge/BNB%20Chain-F0B90B?style=flat-square&logo=binance&logoColor=black)
+
+</div>
+
+*Technologies used or evaluated across current and proposed research. This list is not a certification of production expertise in every technology.*
+
+---
+
+## ◈ Development Roadmap
+
+| Milestone | Focus | Stage |
+|:---|:---|:---|
+| 01 | Beacon Ledger MVP | Implemented; verification pending |
+| 02 | Live BNB Chain integration validation | Pending |
+| 03 | Durable indexing and monitoring | Planned |
+| 04 | Evidence-backed treasury intelligence | Planned |
+| 05 | Multi-agent orchestration prototype | Research |
+| 06 | Campaign accountability infrastructure | Feasibility |
+| 07 | Independent security review | Future requirement |
+
+*Roadmap items are exploratory and may change based on research and validation.*
+
+---
+
+## ◈ Legacy & Evolution
+
+Polybees has roots in earlier BNB Smart Chain experimentation, including a legacy token project.
+
+Our current initiative is a separate, utility-first exploration centered on autonomous intelligence and transparent blockchain infrastructure.
+
+Historical token deployment does not imply an active token launch, investment offering, or entitlement within future products.
+
+---
+
+## ◈ Collaborate With the Colony
+
+We welcome thoughtful collaboration around:
+
+**Agentic Systems · Blockchain Analytics · Security Research · Open-Source Engineering · Responsible Web3 Innovation**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-POLYBEESNETWORK-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Polybeesnetwork)
+[![Issues](https://img.shields.io/badge/DISCUSS-ON%20GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Polybeesnetwork/cuddly-waddle/issues)
+
+---
+
+### THE FUTURE IS NOT ONE INTELLIGENCE.
+
+### IT IS A COLONY.
+
+**POLYBEES NETWORK © 2026**
+
+*Decentralized Intelligence. Collective Evolution.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:090E19,50:123A55,100:D89F32" width="100%" alt="Footer"/>
+
+</div>
